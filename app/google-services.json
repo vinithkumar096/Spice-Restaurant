@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1001746750833",
+    "project_id": "slice-of-spice",
+    "storage_bucket": "slice-of-spice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001746750833:android:135191c5ac34300933ead0",
+        "android_client_info": {
+          "package_name": "com.apiprojects.sliceofspice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001746750833-pktepgl9atctbfk0aouse65pnduse57m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB35GBBpUKfhO_rEFtERQFpXLnoqjKrAMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001746750833-pktepgl9atctbfk0aouse65pnduse57m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
